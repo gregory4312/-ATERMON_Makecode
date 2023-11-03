@@ -1,5 +1,5 @@
 {
-    "name": "Χωρίς τίτλο",
+    "name": "ATERMON Makecode Repository",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,11 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "krk_island/race_track.md",
+        "krk_island/radio_tower.md",
+        "krk_island/radio_tower_2.md",
+        "krk_island/starting_code.md"
     ],
     "testFiles": [
         "test.ts"
