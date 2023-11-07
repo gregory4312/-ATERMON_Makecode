@@ -10,7 +10,9 @@
      
 ```
 
-
+```template
+   //     
+```
 
 ## Step 1
 Let's set up the antennas to count the score for the race. Have your agent visit the marked spots using ``||agent: agent move forward||`` as well as ``||agent: agent turn||``. Study the walk pattern first and then run your code on the``||Loops:on start||`` block.
