@@ -15,7 +15,7 @@
 
 ## Step 1
 
-Let's gather some more materials. In order to make our lives easier, you can have the agent perform an activity on repeat. Study the walk pattern and then have the agent gather all the materials in one go.
+Let's gather some more materials. In order to make our lives easier, you can have the agent perform an activity on repeat. Study the walk pattern and then have the agent gather all the materials in one go. Don't forget to place them in the ``||Loops:on start||`` block.
 
 ### ~ Hint 
 Use a ``||loops: repeat||`` loop
